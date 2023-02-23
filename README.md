@@ -5,6 +5,14 @@
     <em><b>Простой бот с регистрацией для своего проекта</b></em>
 </p>
 
+## Установка
+
+Установить новейшую версию можно командой:
+
+```shell
+pip install vkbottle
+```
+
 ## Bot с регистрацией
 
 ```python
@@ -93,10 +101,3 @@ conn.close()
 [Туториал для новичков](https://vkbottle.readthedocs.io/ru/latest/tutorial/)\
 [Техническая документация](https://vkbottle.readthedocs.io/ru/latest)
 
-## Установка
-
-Установить новейшую версию можно командой:
-
-```shell
-pip install vkbottle
-```
