@@ -20,7 +20,6 @@ import sqlite3
 from vkbottle.bot import Bot, Message
 from vkbottle import Keyboard, Text, KeyboardButtonColor
 import datetime
-import telebot
 from datetime import datetime
 
 vk_bot = Bot("GroupToken")
